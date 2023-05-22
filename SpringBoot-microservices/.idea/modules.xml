@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Config-server/Config-server/Config-server.iml" filepath="$PROJECT_DIR$/Config-server/Config-server/Config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Department-microservice/Department-microservice/Department-microservice.iml" filepath="$PROJECT_DIR$/Department-microservice/Department-microservice/Department-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Employee-microservice/Employee-microservice/Employee-microservice.iml" filepath="$PROJECT_DIR$/Employee-microservice/Employee-microservice/Employee-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gateway/Gateway/Gateway.iml" filepath="$PROJECT_DIR$/Gateway/Gateway/Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/organization-service/Organization-service.iml" filepath="$PROJECT_DIR$/organization-service/Organization-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-registry/Service-registry.iml" filepath="$PROJECT_DIR$/service-registry/Service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot-microservices.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot-microservices.iml" />
+    </modules>
+  </component>
+</project>

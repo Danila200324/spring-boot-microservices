@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Config-server/Config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Config-server/Config-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Department-microservice/Department-microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Employee-microservice/Employee-microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Gateway/Gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Gateway/Gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Organization-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Service-registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Service-registry/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
